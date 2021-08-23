@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Tek Jones</h1>
 <h3 align="center">'m a Full-stack developer that focuses on front end technologies.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tekthree" alt="tekthree" /></a> </p>
-
-- 🔭 I’m currently working on [Bounty](https://bounty-ice-cream.netlify.app/)
+- 🔭 I’m currently working on 🍦🍦🍦[Bounty](https://bounty-ice-cream.netlify.app/)
 
 - 🌱 I’m currently learning **Firebase, React Native**
 
