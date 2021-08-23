@@ -1,9 +1,10 @@
-# Tekthree
+
 
 <h1 align="center">Hi 👋, I'm Tek Jones</h1>
 <h3 align="center">'m a Full-stack developer that focuses on front end technologies.</h3>
 
-- 🔭 I’m currently working on 🍦🍦🍦[Bounty](https://bounty-ice-cream.netlify.app/)
+
+- 🔭 I’m currently working on [Bounty](https://bounty-ice-cream.netlify.app/)
 
 - 🌱 I’m currently learning **Firebase, React Native**
 
